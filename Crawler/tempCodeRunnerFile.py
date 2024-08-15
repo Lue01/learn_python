@@ -1,0 +1,1 @@
+https://cn.bing.com/images/search?q={search_query}&form=HDRSC2&first=1&cw=1850&ch=958
